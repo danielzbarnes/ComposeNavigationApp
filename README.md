@@ -1,2 +1,2 @@
 # ComposeNavigationApp
- Simple app experimenting with Jetpack Navigation using Compose 
+ A simple app experimenting with Jetpack Compose and Navigation.  
